@@ -1,5 +1,4 @@
-# bike-sales-dashboard
-## Bike sales analysis Project
+# Bike sales analysis Project
 - This project provides a comprehensive analysis of bike sales data using Microsoft Excel. It demonstrates key data analytics skills, including data cleaning, transformation, visualization, and insights extraction.
 
 ## Key Features
